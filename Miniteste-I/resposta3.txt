@@ -1,0 +1,2 @@
+Resposta para a questão 3:
+        O versionamento de código funciona basicamente de forma aditiva o código de um projeto ou aplicação é desenvolvido na maioria das vezes em etapas e por uma equipe o versionamento de código ajuda a controlar o desenvolvimento e organizar o código desenvolvido pela equipe de desenvolvimento e ela serve para ajudar a reverter erros de desenvolvido visto que ele guarda todas as versões salvas de todas as etapas do desenvolvimento e pode ser recuperado de maneira simples.

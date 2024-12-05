@@ -1,0 +1,2 @@
+Resposta para a questão 4:
+    O papel do Js foi essencial para o desenvolvimento e expansão da utilização da internet e dos sites basicamente ele surgiu com a proposta de transformar os sites em algo menos estático e mais dinâmico para melhorar a experiência do usuário.

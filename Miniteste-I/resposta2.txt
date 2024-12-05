@@ -1,0 +1,2 @@
+Resposta para a questão 2:
+    Algumas delas são do Word Press ferramenta utilizada para desenvolver sites com mais facilidade sem usar muita programação apenas importando containers já feitos e arrastando para criar o site, O React e Angular que são usados no desenvolvimento web para criar e desenvolver o front-end de uma aplicação cada um com suas características e pontos fortes e fracos, e o próprio git e github que são ferramentas que ajudam no desenvolvimento em conjunto de equipes de desenvolvimento web. 

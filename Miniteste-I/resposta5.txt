@@ -1,0 +1,2 @@
+Resposta para a questão 5:
+    Dividir as tarefas procurando o equilibrio das tasks e seguindo alguma metodologia de desenvolvimento rápido para ajudar a guiar o projeto, para escolher as ferramentas sem muitos problemas apenas pegar as ferramentas que cada um tem mais familiaridade dentro do possivel e viavel para o projeto para não gerar uso de mutas tecnlogias que vão deixar o código muito grande e fazer algumas aulas de git e github para evitar problemas no desenvolvimento do site ou api.
